@@ -1,7 +1,7 @@
 {
     "icon": "fa-openshift",
     "title": "Running pods as root",
-    "description": "Learn how to run pods as any user or root by relaxing the policy.",
+    "description": "Learn how to run pods as any user or root by relaxing the default policy.",
     "pathwayTitle": "OpenShift",
     "difficulty": "intermediate",
     "time": "5-10 minutes",
