@@ -9,7 +9,7 @@
     {
       "external_link": "https://www.katacoda.com/sjbylo/courses/introduction/run-pod-as-root",
       "course_id": "run-pod-as-root",
-      "title": "Learn how to run pods as any user or root by relaxing the policy."
+      "title": "Learn how to run pods as any user or root by relaxing the security policy."
     }
   ]
 }
