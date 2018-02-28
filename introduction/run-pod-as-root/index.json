@@ -18,16 +18,16 @@
     },
     "details": {
         "steps": [{
-            "title": "Topic 1 - Introduction",
+            "title": "Topic 1 - Introduction to running containers as any user ID or root",
             "text": "01.md"
         }, {
-            "title": "Topic 2 - ",
+            "title": "Topic 2 - Containers don't run as root in OpenShift by default",
             "text": "02.md"
         }, {
-            "title": "Topic 3 - ",
+            "title": "Topic 3 - Allowing containers to run as any user or root",
             "text": "03.md"
         }, {
-            "title": "Topic 4 - ",
+            "title": "Topic 4 - Running containers with a specific user ID",
             "text": "04.md"
         }],
         "intro": {
