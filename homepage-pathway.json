@@ -1,0 +1,10 @@
+{
+  "title": "OpenShift Tutorials",
+  "private": true,
+  "courses": [
+    {
+      "external_link": "https://www.katacoda.com/sjbylo/courses/introduction/",
+      "title": "Foundations of OpenShift"
+    }
+  ]
+}

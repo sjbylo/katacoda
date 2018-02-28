@@ -1,0 +1,46 @@
+{
+    "icon": "fa-openshift",
+    "title": "Create your own S2I Builder Image",
+    "description": "Learn how to create your own S2I Builder Image using a simplified example.",
+    "pathwayTitle": "OpenShift",
+    "difficulty": "intermediate",
+    "time": "15-20 minutes",
+    "backend": {
+        "imageid": "openshift",
+        "port": 8443
+    },
+    "environment": {
+        "showdashboard": true,
+        "dashboard": "Dashboard",
+        "uilayout": "terminal-iframe",
+        "hideintro": false,
+        "hidefinish": false
+    },
+    "details": {
+        "steps": [{
+            "title": "Topic 1 - Introduction",
+            "text": "01.md"
+        }, {
+            "title": "Topic 2 - Creating the S2I Builder Image",
+            "text": "02.md"
+        }, {
+            "title": "Topic 3 - Using the S2I Builder Image",
+            "text": "03.md"
+        }],
+        "intro": {
+            "courseData": "env-init.sh",
+            "code": "set-env.sh",
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "assets": {
+          "host01": [
+		{"file": "assets.tar", "target": "/root/"}
+	]
+        }
+    }
+}
+
+
