@@ -1,7 +1,7 @@
 {
     "icon": "fa-openshift",
-    "title": "My Title",
-    "description": "...Image using a simplified example.",
+    "title": "Running pods as root",
+    "description": "Learn how to run pods as any user or root by relaxing the policy.",
     "pathwayTitle": "OpenShift",
     "difficulty": "intermediate",
     "time": "5-10 minutes",
@@ -21,11 +21,14 @@
             "title": "Topic 1 - Introduction",
             "text": "01.md"
         }, {
-            "title": "Topic 2 - Creating the S2I Builder Image",
+            "title": "Topic 2 - ",
             "text": "02.md"
         }, {
-            "title": "Topic 3 - Using the S2I Builder Image",
+            "title": "Topic 3 - ",
             "text": "03.md"
+        }, {
+            "title": "Topic 4 - ",
+            "text": "04.md"
         }],
         "intro": {
             "courseData": "env-init.sh",
