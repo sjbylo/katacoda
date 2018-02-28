@@ -1,9 +1,10 @@
 In this scenario you will learn why it's important that containers do not run as root.
-You will also learn how to relax the default policy so that containers can run as any user id, even root. 
+You will also learn how to relax the default policy so that containers can run as any user ID, even root. 
 
 This tutorial is divided into three parts.
 
-1. Introduction to 
-2. 
-3. 
+1. Introduction to running containers as any user ID or root
+2. Containers don't run as root in OpenShift by default
+3. Allowing containers to run as any user or root
+4. Running containers with a specific user ID
 
