@@ -1,4 +1,4 @@
-In this scenario you will learn why it's important that containers do not run as root.
+In this scenario, you will learn why it's important that containers do not run as root.
 You will also learn how to relax the default policy so that containers can run as any user ID, even root. 
 
 This tutorial is divided into four parts.
