@@ -1,0 +1,49 @@
+{
+    "icon": "fa-openshift",
+    "title": "Running pods as root",
+    "description": "Learn how to run pods as any user or root by relaxing the default policy.",
+    "pathwayTitle": "OpenShift",
+    "difficulty": "intermediate",
+    "time": "5-10 minutes",
+    "backend": {
+        "imageid": "openshift",
+        "port": 8443
+    },
+    "environment": {
+        "showdashboard": true,
+        "dashboard": "Dashboard",
+        "uilayout": "terminal-iframe",
+        "hideintro": false,
+        "hidefinish": false
+    },
+    "details": {
+        "steps": [{
+            "title": "Topic 1 - Introduction to running containers as any user ID or root",
+            "text": "01.md"
+        }, {
+            "title": "Topic 2 - Containers don't run as root in OpenShift by default",
+            "text": "02.md"
+        }, {
+            "title": "Topic 3 - Allowing containers to run as any user or root",
+            "text": "03.md"
+        }, {
+            "title": "Topic 4 - Running containers with a specific user ID",
+            "text": "04.md"
+        }],
+        "intro": {
+            "courseData": "env-init.sh",
+            "code": "set-env.sh",
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "assets": {
+          "host01": [
+		{"file": "assets.tar", "target": "/root/"}
+	]
+        }
+    }
+}
+
+
