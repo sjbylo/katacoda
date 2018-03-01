@@ -1,6 +1,0 @@
-for i in {0..10}
-do
-        id=$(oc get pods | grep $1-.*Running | awk '{print $1}' | tail -1 | grep -v deploy$)
-        [ "$id" ] && echo $id && exit
-        sleep 1
-done
