@@ -2,12 +2,12 @@
   "title": "Intermediate learning with OpenShift",
   "courses": [
     {
-      "external_link": "https://www.katacoda.com/sjbylo/courses/intermediate/simple-s2i-builder",
+      "external_link": "https://www.katacoda.com/sbylo/courses/intermediate/simple-s2i-builder",
       "course_id": "simple-s2i-builder",
       "title": "Learn how to create your own S2I Builder Image using a simple example"
     },
     {
-      "external_link": "https://www.katacoda.com/sjbylo/courses/intermediate/run-pod-as-root",
+      "external_link": "https://www.katacoda.com/sbylo/courses/intermediate/run-pod-as-root",
       "course_id": "run-pod-as-root",
       "title": "Learn how to run pods as any user or root by relaxing the security policy."
     }
